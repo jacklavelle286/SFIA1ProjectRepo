@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_059.png" added="2020-10-05T09:37:02Z" modified="2020-10-05T09:37:02Z" visited="2020-10-05T09:37:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-05T09:37:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_060.png" added="2020-10-05T09:37:52Z" modified="2020-10-05T09:37:52Z" visited="2020-10-05T09:37:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-05T09:37:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_061.png" added="2020-10-05T09:40:43Z" modified="2020-10-05T09:40:43Z" visited="2020-10-05T09:40:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-05T09:40:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_062.png" added="2020-10-05T10:56:03Z" modified="2020-10-05T10:56:03Z" visited="2020-10-05T10:56:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-05T10:56:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_063.png" added="2020-10-07T08:17:28Z" modified="2020-10-07T08:17:28Z" visited="2020-10-07T08:17:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-07T08:17:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_064.png" added="2020-10-07T08:18:39Z" modified="2020-10-07T08:18:39Z" visited="2020-10-07T08:18:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-07T08:18:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/Pictures/Selection_065.png" added="2020-10-26T17:23:43Z" modified="2020-10-26T17:23:43Z" visited="2020-10-26T17:23:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-26T17:23:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qa-admin/projects/sfia-3/frontend/src/components/images/qa-logo.png" added="2020-10-26T17:24:35Z" modified="2020-10-26T17:24:40Z" visited="2020-10-26T17:24:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="&apos;shutter %u&apos;" modified="2020-10-26T17:24:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

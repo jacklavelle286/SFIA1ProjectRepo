@@ -1,0 +1,15 @@
+2020/11/18-09:46:27.357 27aa Reusing MANIFEST /home/qa-admin/snap/postman/128/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-09:46:27.358 27aa Recovering log #113
+2020/11/18-09:46:27.360 27aa Reusing old log /home/qa-admin/snap/postman/128/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000113.log 
+2020/11/18-09:46:27.360 27aa Delete type=2 #114
+2020/11/18-09:46:27.360 27aa Delete type=2 #111
+2020/11/18-09:46:45.545 28e3 Level-0 table #118: started
+2020/11/18-09:46:45.566 28e3 Level-0 table #118: 103822 bytes OK
+2020/11/18-09:46:45.583 28e3 Delete type=0 #113
+2020/11/18-09:46:45.588 28e3 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/18-09:53:38.501 28e3 Compacting 1@1 + 1@2 files
+2020/11/18-09:53:38.513 28e3 Generated table #119@1: 2049 keys, 162162 bytes
+2020/11/18-09:53:38.513 28e3 Compacted 1@1 + 1@2 files => 162162 bytes
+2020/11/18-09:53:38.519 28e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/18-09:53:38.520 28e3 Delete type=2 #115
+2020/11/18-09:53:38.520 28e3 Delete type=2 #118
