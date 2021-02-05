@@ -1,6 +1,6 @@
 # SFIA1ProjectRepo
 
-# My 'Interactive Study Portal For Amazon S3'
+# My 'Interactive Study Portal For Storage Solutions in S3'
 
 # Project Brief
  * Additional Requirements
